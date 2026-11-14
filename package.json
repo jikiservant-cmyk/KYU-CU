@@ -1,0 +1,11 @@
+{
+  "name": "kyambogo-christian-union-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kyambogo Christian Union — campus fellowship website",
+  "scripts": {
+    "start": "node server.js",
+    "build": "python3 tools/build.py"
+  },
+  "license": "UNLICENSED"
+}
